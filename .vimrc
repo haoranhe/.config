@@ -32,6 +32,8 @@ set listchars=tab:\|\ ,trail:▫
 let mapleader=" "
 "let maplocalleader="\\"
 
+
+
 " New cursor movement (the default arrow keys are used for resizing windows)
 " <D-> for command key, <M->/<A-> for alt/option key
 " <C-> for control key, <S-> for shift key
